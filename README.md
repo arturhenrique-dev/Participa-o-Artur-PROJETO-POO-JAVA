@@ -2,7 +2,7 @@
 
 > Repositório pessoal com a **minha parte** no Projeto Integrador de Programação Orientada a Objetos do curso de Análise e Desenvolvimento de Sistemas (ADS). O projeto completo é desenvolvido em grupo por três integrantes; ao final, as três partes são reunidas em um único código.
 
-📘 **Documentação completa, com exemplos e roteiro de apresentação:** [DOCUMENTACAO.md](DOCUMENTACAO.md)
+📘 **Documentação completa, com exemplos e roteiro de apresentação:** [DOCUMENTACAO.md](DOCUMENTACAO PROJETO POO.md)
 
 ---
 
